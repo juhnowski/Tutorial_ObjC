@@ -1,9 +1,9 @@
-#Тестирование:
+# Тестирование:
 https://github.com/juhnowski/interview
 по бэкенду - решенные задачи здесь же, в этом репозитории
 по фронту - ссылки на другие репозитории
 
-#Обучение Objective-C iOS UI:
+# Обучение Objective-C iOS UI:
 https://github.com/juhnowski/ObjC_HelloWorld
 https://github.com/juhnowski/ObjC_Constraints
 https://github.com/juhnowski/ObjC_DisplayingText
